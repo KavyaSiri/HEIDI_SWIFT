@@ -1,0 +1,450 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HaSwitchCell"
+provides-nominal:
+- "13DoctorsFriend12HaSwitchCellC"
+provides-member:
+- ["13DoctorsFriend12HaSwitchCellC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "buttonMild"
+- "buttonModerate"
+- "buttonPainFree"
+- "buttonSevere"
+- "buttonSwitch"
+- "labelSwitchLabel"
+- "lableHeadache"
+- "setSelected"
+depends-top-level:
+- "Bool"
+- "HaSwitchCell"
+- "UIButton"
+- "UILabel"
+- "UISwitch"
+- "UITableViewCell"
+depends-member:
+- ["So15CALayerDelegateP", "Bool"]
+- ["So15CALayerDelegateP", "UIButton"]
+- ["So15CALayerDelegateP", "UILabel"]
+- ["So15CALayerDelegateP", "UISwitch"]
+- ["So15CALayerDelegateP", ""]
+- ["So15CALayerDelegateP", "awakeFromNib"]
+- ["So15CALayerDelegateP", "buttonMild"]
+- ["So15CALayerDelegateP", "buttonModerate"]
+- ["So15CALayerDelegateP", "buttonPainFree"]
+- ["So15CALayerDelegateP", "buttonSevere"]
+- ["So15CALayerDelegateP", "buttonSwitch"]
+- ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "labelSwitchLabel"]
+- ["So15CALayerDelegateP", "lableHeadache"]
+- ["So15CALayerDelegateP", "setSelected"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "awakeFromNib"]
+- !private ["s7CVarArgP", "setSelected"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "awakeFromNib"]
+- !private ["s28CustomDebugStringConvertibleP", "setSelected"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "awakeFromNib"]
+- !private ["s23CustomStringConvertibleP", "setSelected"]
+- ["SQ", ""]
+- !private ["SQ", "awakeFromNib"]
+- !private ["SQ", "setSelected"]
+- ["13DoctorsFriend12HaSwitchCellC", "Bool"]
+- ["13DoctorsFriend12HaSwitchCellC", "UIButton"]
+- ["13DoctorsFriend12HaSwitchCellC", "UILabel"]
+- ["13DoctorsFriend12HaSwitchCellC", "UISwitch"]
+- ["13DoctorsFriend12HaSwitchCellC", ""]
+- ["13DoctorsFriend12HaSwitchCellC", "awakeFromNib"]
+- ["13DoctorsFriend12HaSwitchCellC", "buttonMild"]
+- ["13DoctorsFriend12HaSwitchCellC", "buttonModerate"]
+- ["13DoctorsFriend12HaSwitchCellC", "buttonPainFree"]
+- ["13DoctorsFriend12HaSwitchCellC", "buttonSevere"]
+- ["13DoctorsFriend12HaSwitchCellC", "buttonSwitch"]
+- ["13DoctorsFriend12HaSwitchCellC", "deinit"]
+- ["13DoctorsFriend12HaSwitchCellC", "init"]
+- ["13DoctorsFriend12HaSwitchCellC", "labelSwitchLabel"]
+- ["13DoctorsFriend12HaSwitchCellC", "lableHeadache"]
+- ["13DoctorsFriend12HaSwitchCellC", "setSelected"]
+- ["SH", ""]
+- !private ["SH", "awakeFromNib"]
+- !private ["SH", "setSelected"]
+- ["So8NSCodingP", "Bool"]
+- ["So8NSCodingP", "UIButton"]
+- ["So8NSCodingP", "UILabel"]
+- ["So8NSCodingP", "UISwitch"]
+- ["So8NSCodingP", ""]
+- ["So8NSCodingP", "awakeFromNib"]
+- ["So8NSCodingP", "buttonMild"]
+- ["So8NSCodingP", "buttonModerate"]
+- ["So8NSCodingP", "buttonPainFree"]
+- ["So8NSCodingP", "buttonSevere"]
+- ["So8NSCodingP", "buttonSwitch"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "labelSwitchLabel"]
+- ["So8NSCodingP", "lableHeadache"]
+- ["So8NSCodingP", "setSelected"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UILabel"]
+- ["So8NSObjectC", "UISwitch"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "awakeFromNib"]
+- ["So8NSObjectC", "buttonMild"]
+- ["So8NSObjectC", "buttonModerate"]
+- ["So8NSObjectC", "buttonPainFree"]
+- ["So8NSObjectC", "buttonSevere"]
+- ["So8NSObjectC", "buttonSwitch"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "labelSwitchLabel"]
+- ["So8NSObjectC", "lableHeadache"]
+- ["So8NSObjectC", "setSelected"]
+- ["So8NSObjectP", "Bool"]
+- ["So8NSObjectP", "UIButton"]
+- ["So8NSObjectP", "UILabel"]
+- ["So8NSObjectP", "UISwitch"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "awakeFromNib"]
+- ["So8NSObjectP", "buttonMild"]
+- ["So8NSObjectP", "buttonModerate"]
+- ["So8NSObjectP", "buttonPainFree"]
+- ["So8NSObjectP", "buttonSevere"]
+- ["So8NSObjectP", "buttonSwitch"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "labelSwitchLabel"]
+- ["So8NSObjectP", "lableHeadache"]
+- ["So8NSObjectP", "setSelected"]
+- ["So29UIAccessibilityIdentificationP", "Bool"]
+- ["So29UIAccessibilityIdentificationP", "UIButton"]
+- ["So29UIAccessibilityIdentificationP", "UILabel"]
+- ["So29UIAccessibilityIdentificationP", "UISwitch"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- ["So29UIAccessibilityIdentificationP", "awakeFromNib"]
+- ["So29UIAccessibilityIdentificationP", "buttonMild"]
+- ["So29UIAccessibilityIdentificationP", "buttonModerate"]
+- ["So29UIAccessibilityIdentificationP", "buttonPainFree"]
+- ["So29UIAccessibilityIdentificationP", "buttonSevere"]
+- ["So29UIAccessibilityIdentificationP", "buttonSwitch"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "labelSwitchLabel"]
+- ["So29UIAccessibilityIdentificationP", "lableHeadache"]
+- ["So29UIAccessibilityIdentificationP", "setSelected"]
+- ["So12UIAppearanceP", "Bool"]
+- ["So12UIAppearanceP", "UIButton"]
+- ["So12UIAppearanceP", "UILabel"]
+- ["So12UIAppearanceP", "UISwitch"]
+- ["So12UIAppearanceP", ""]
+- ["So12UIAppearanceP", "awakeFromNib"]
+- ["So12UIAppearanceP", "buttonMild"]
+- ["So12UIAppearanceP", "buttonModerate"]
+- ["So12UIAppearanceP", "buttonPainFree"]
+- ["So12UIAppearanceP", "buttonSevere"]
+- ["So12UIAppearanceP", "buttonSwitch"]
+- ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "labelSwitchLabel"]
+- ["So12UIAppearanceP", "lableHeadache"]
+- ["So12UIAppearanceP", "setSelected"]
+- ["So21UIAppearanceContainerP", "Bool"]
+- ["So21UIAppearanceContainerP", "UIButton"]
+- ["So21UIAppearanceContainerP", "UILabel"]
+- ["So21UIAppearanceContainerP", "UISwitch"]
+- ["So21UIAppearanceContainerP", ""]
+- ["So21UIAppearanceContainerP", "awakeFromNib"]
+- ["So21UIAppearanceContainerP", "buttonMild"]
+- ["So21UIAppearanceContainerP", "buttonModerate"]
+- ["So21UIAppearanceContainerP", "buttonPainFree"]
+- ["So21UIAppearanceContainerP", "buttonSevere"]
+- ["So21UIAppearanceContainerP", "buttonSwitch"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "labelSwitchLabel"]
+- ["So21UIAppearanceContainerP", "lableHeadache"]
+- ["So21UIAppearanceContainerP", "setSelected"]
+- ["So17UICoordinateSpaceP", "Bool"]
+- ["So17UICoordinateSpaceP", "UIButton"]
+- ["So17UICoordinateSpaceP", "UILabel"]
+- ["So17UICoordinateSpaceP", "UISwitch"]
+- ["So17UICoordinateSpaceP", ""]
+- ["So17UICoordinateSpaceP", "awakeFromNib"]
+- ["So17UICoordinateSpaceP", "buttonMild"]
+- ["So17UICoordinateSpaceP", "buttonModerate"]
+- ["So17UICoordinateSpaceP", "buttonPainFree"]
+- ["So17UICoordinateSpaceP", "buttonSevere"]
+- ["So17UICoordinateSpaceP", "buttonSwitch"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "labelSwitchLabel"]
+- ["So17UICoordinateSpaceP", "lableHeadache"]
+- ["So17UICoordinateSpaceP", "setSelected"]
+- ["So13UIDynamicItemP", "Bool"]
+- ["So13UIDynamicItemP", "UIButton"]
+- ["So13UIDynamicItemP", "UILabel"]
+- ["So13UIDynamicItemP", "UISwitch"]
+- ["So13UIDynamicItemP", ""]
+- ["So13UIDynamicItemP", "awakeFromNib"]
+- ["So13UIDynamicItemP", "buttonMild"]
+- ["So13UIDynamicItemP", "buttonModerate"]
+- ["So13UIDynamicItemP", "buttonPainFree"]
+- ["So13UIDynamicItemP", "buttonSevere"]
+- ["So13UIDynamicItemP", "buttonSwitch"]
+- ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "labelSwitchLabel"]
+- ["So13UIDynamicItemP", "lableHeadache"]
+- ["So13UIDynamicItemP", "setSelected"]
+- ["So18UIFocusEnvironmentP", "Bool"]
+- ["So18UIFocusEnvironmentP", "UIButton"]
+- ["So18UIFocusEnvironmentP", "UILabel"]
+- ["So18UIFocusEnvironmentP", "UISwitch"]
+- ["So18UIFocusEnvironmentP", ""]
+- ["So18UIFocusEnvironmentP", "awakeFromNib"]
+- ["So18UIFocusEnvironmentP", "buttonMild"]
+- ["So18UIFocusEnvironmentP", "buttonModerate"]
+- ["So18UIFocusEnvironmentP", "buttonPainFree"]
+- ["So18UIFocusEnvironmentP", "buttonSevere"]
+- ["So18UIFocusEnvironmentP", "buttonSwitch"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "labelSwitchLabel"]
+- ["So18UIFocusEnvironmentP", "lableHeadache"]
+- ["So18UIFocusEnvironmentP", "setSelected"]
+- ["So11UIFocusItemP", "Bool"]
+- ["So11UIFocusItemP", "UIButton"]
+- ["So11UIFocusItemP", "UILabel"]
+- ["So11UIFocusItemP", "UISwitch"]
+- ["So11UIFocusItemP", ""]
+- ["So11UIFocusItemP", "awakeFromNib"]
+- ["So11UIFocusItemP", "buttonMild"]
+- ["So11UIFocusItemP", "buttonModerate"]
+- ["So11UIFocusItemP", "buttonPainFree"]
+- ["So11UIFocusItemP", "buttonSevere"]
+- ["So11UIFocusItemP", "buttonSwitch"]
+- ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "labelSwitchLabel"]
+- ["So11UIFocusItemP", "lableHeadache"]
+- ["So11UIFocusItemP", "setSelected"]
+- ["So20UIFocusItemContainerP", "Bool"]
+- ["So20UIFocusItemContainerP", "UIButton"]
+- ["So20UIFocusItemContainerP", "UILabel"]
+- ["So20UIFocusItemContainerP", "UISwitch"]
+- ["So20UIFocusItemContainerP", ""]
+- ["So20UIFocusItemContainerP", "awakeFromNib"]
+- ["So20UIFocusItemContainerP", "buttonMild"]
+- ["So20UIFocusItemContainerP", "buttonModerate"]
+- ["So20UIFocusItemContainerP", "buttonPainFree"]
+- ["So20UIFocusItemContainerP", "buttonSevere"]
+- ["So20UIFocusItemContainerP", "buttonSwitch"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "labelSwitchLabel"]
+- ["So20UIFocusItemContainerP", "lableHeadache"]
+- ["So20UIFocusItemContainerP", "setSelected"]
+- ["So27UIGestureRecognizerDelegateP", "Bool"]
+- ["So27UIGestureRecognizerDelegateP", "UIButton"]
+- ["So27UIGestureRecognizerDelegateP", "UILabel"]
+- ["So27UIGestureRecognizerDelegateP", "UISwitch"]
+- ["So27UIGestureRecognizerDelegateP", ""]
+- ["So27UIGestureRecognizerDelegateP", "awakeFromNib"]
+- ["So27UIGestureRecognizerDelegateP", "buttonMild"]
+- ["So27UIGestureRecognizerDelegateP", "buttonModerate"]
+- ["So27UIGestureRecognizerDelegateP", "buttonPainFree"]
+- ["So27UIGestureRecognizerDelegateP", "buttonSevere"]
+- ["So27UIGestureRecognizerDelegateP", "buttonSwitch"]
+- ["So27UIGestureRecognizerDelegateP", "init"]
+- ["So27UIGestureRecognizerDelegateP", "labelSwitchLabel"]
+- ["So27UIGestureRecognizerDelegateP", "lableHeadache"]
+- ["So27UIGestureRecognizerDelegateP", "setSelected"]
+- ["So24UILargeContentViewerItemP", "Bool"]
+- ["So24UILargeContentViewerItemP", "UIButton"]
+- ["So24UILargeContentViewerItemP", "UILabel"]
+- ["So24UILargeContentViewerItemP", "UISwitch"]
+- ["So24UILargeContentViewerItemP", ""]
+- ["So24UILargeContentViewerItemP", "awakeFromNib"]
+- ["So24UILargeContentViewerItemP", "buttonMild"]
+- ["So24UILargeContentViewerItemP", "buttonModerate"]
+- ["So24UILargeContentViewerItemP", "buttonPainFree"]
+- ["So24UILargeContentViewerItemP", "buttonSevere"]
+- ["So24UILargeContentViewerItemP", "buttonSwitch"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "labelSwitchLabel"]
+- ["So24UILargeContentViewerItemP", "lableHeadache"]
+- ["So24UILargeContentViewerItemP", "setSelected"]
+- ["So30UIPasteConfigurationSupportingP", "Bool"]
+- ["So30UIPasteConfigurationSupportingP", "UIButton"]
+- ["So30UIPasteConfigurationSupportingP", "UILabel"]
+- ["So30UIPasteConfigurationSupportingP", "UISwitch"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So30UIPasteConfigurationSupportingP", "awakeFromNib"]
+- ["So30UIPasteConfigurationSupportingP", "buttonMild"]
+- ["So30UIPasteConfigurationSupportingP", "buttonModerate"]
+- ["So30UIPasteConfigurationSupportingP", "buttonPainFree"]
+- ["So30UIPasteConfigurationSupportingP", "buttonSevere"]
+- ["So30UIPasteConfigurationSupportingP", "buttonSwitch"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "labelSwitchLabel"]
+- ["So30UIPasteConfigurationSupportingP", "lableHeadache"]
+- ["So30UIPasteConfigurationSupportingP", "setSelected"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UILabel"]
+- ["So11UIResponderC", "UISwitch"]
+- ["So11UIResponderC", ""]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "buttonMild"]
+- ["So11UIResponderC", "buttonModerate"]
+- ["So11UIResponderC", "buttonPainFree"]
+- ["So11UIResponderC", "buttonSevere"]
+- ["So11UIResponderC", "buttonSwitch"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "labelSwitchLabel"]
+- ["So11UIResponderC", "lableHeadache"]
+- ["So11UIResponderC", "setSelected"]
+- ["So30UIResponderStandardEditActionsP", "Bool"]
+- ["So30UIResponderStandardEditActionsP", "UIButton"]
+- ["So30UIResponderStandardEditActionsP", "UILabel"]
+- ["So30UIResponderStandardEditActionsP", "UISwitch"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- ["So30UIResponderStandardEditActionsP", "awakeFromNib"]
+- ["So30UIResponderStandardEditActionsP", "buttonMild"]
+- ["So30UIResponderStandardEditActionsP", "buttonModerate"]
+- ["So30UIResponderStandardEditActionsP", "buttonPainFree"]
+- ["So30UIResponderStandardEditActionsP", "buttonSevere"]
+- ["So30UIResponderStandardEditActionsP", "buttonSwitch"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "labelSwitchLabel"]
+- ["So30UIResponderStandardEditActionsP", "lableHeadache"]
+- ["So30UIResponderStandardEditActionsP", "setSelected"]
+- ["So15UITableViewCellC", "Bool"]
+- ["So15UITableViewCellC", "UIButton"]
+- ["So15UITableViewCellC", "UILabel"]
+- ["So15UITableViewCellC", "UISwitch"]
+- ["So15UITableViewCellC", ""]
+- ["So15UITableViewCellC", "awakeFromNib"]
+- ["So15UITableViewCellC", "buttonMild"]
+- ["So15UITableViewCellC", "buttonModerate"]
+- ["So15UITableViewCellC", "buttonPainFree"]
+- ["So15UITableViewCellC", "buttonSevere"]
+- ["So15UITableViewCellC", "buttonSwitch"]
+- ["So15UITableViewCellC", "init"]
+- ["So15UITableViewCellC", "labelSwitchLabel"]
+- ["So15UITableViewCellC", "lableHeadache"]
+- ["So15UITableViewCellC", "setSelected"]
+- ["So18UITraitEnvironmentP", "Bool"]
+- ["So18UITraitEnvironmentP", "UIButton"]
+- ["So18UITraitEnvironmentP", "UILabel"]
+- ["So18UITraitEnvironmentP", "UISwitch"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So18UITraitEnvironmentP", "awakeFromNib"]
+- ["So18UITraitEnvironmentP", "buttonMild"]
+- ["So18UITraitEnvironmentP", "buttonModerate"]
+- ["So18UITraitEnvironmentP", "buttonPainFree"]
+- ["So18UITraitEnvironmentP", "buttonSevere"]
+- ["So18UITraitEnvironmentP", "buttonSwitch"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "labelSwitchLabel"]
+- ["So18UITraitEnvironmentP", "lableHeadache"]
+- ["So18UITraitEnvironmentP", "setSelected"]
+- ["So23UIUserActivityRestoringP", "Bool"]
+- ["So23UIUserActivityRestoringP", "UIButton"]
+- ["So23UIUserActivityRestoringP", "UILabel"]
+- ["So23UIUserActivityRestoringP", "UISwitch"]
+- ["So23UIUserActivityRestoringP", ""]
+- ["So23UIUserActivityRestoringP", "awakeFromNib"]
+- ["So23UIUserActivityRestoringP", "buttonMild"]
+- ["So23UIUserActivityRestoringP", "buttonModerate"]
+- ["So23UIUserActivityRestoringP", "buttonPainFree"]
+- ["So23UIUserActivityRestoringP", "buttonSevere"]
+- ["So23UIUserActivityRestoringP", "buttonSwitch"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "labelSwitchLabel"]
+- ["So23UIUserActivityRestoringP", "lableHeadache"]
+- ["So23UIUserActivityRestoringP", "setSelected"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "UIButton"]
+- ["So6UIViewC", "UILabel"]
+- ["So6UIViewC", "UISwitch"]
+- ["So6UIViewC", ""]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "buttonMild"]
+- ["So6UIViewC", "buttonModerate"]
+- ["So6UIViewC", "buttonPainFree"]
+- ["So6UIViewC", "buttonSevere"]
+- ["So6UIViewC", "buttonSwitch"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "labelSwitchLabel"]
+- ["So6UIViewC", "lableHeadache"]
+- ["So6UIViewC", "setSelected"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "awakeFromNib"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setSelected"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "awakeFromNib"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "setSelected"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "awakeFromNib"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "setSelected"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "13DoctorsFriend12HaSwitchCellC"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So15UITableViewCellC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b848b5acf5684cd9c89a0fa7d2a3f91e"
